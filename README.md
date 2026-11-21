@@ -1,8 +1,8 @@
-# <div align='center'>iziCoder</div>
+# <div align='center'>Clan</div>
 
 <p align="center">
 
-  <img src="https://n.uguu.se/WvzXOqxdjxzJ.jpg" width="180" alt="iziCoder"/>
+  <img src="https://n.uguu.se/WvzXOqxdjxzJ.jpg" width="180" alt="Clan"/>
 
 </p>
 
